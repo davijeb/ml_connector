@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gs-runtime-9.7.0-10496-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gigaspaces/gs-runtime/9.7.0-10496-RELEASE/gs-runtime-9.7.0-10496-RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/marklogic/client-api-java/2.0-1/client-api-java-2.0-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

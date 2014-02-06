@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gs-openspaces-9.7.0-10496-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gigaspaces/gs-openspaces/9.7.0-10496-RELEASE/gs-openspaces-9.7.0-10496-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
